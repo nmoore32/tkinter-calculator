@@ -1,6 +1,5 @@
 import re
-from tkinter import *
-from tkinter import messagebox
+from tkinter import Button, E, END, Entry, messagebox, N, S, Tk, W
 
 
 VALID_CHARS = ('0', '1', '2', '3', '4', '5', '6', '7',
